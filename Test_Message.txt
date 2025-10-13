@@ -1,0 +1,4 @@
+"Get a free book from my library."
+"Purches a book from my library."
+"Buy 2 get 1 free coupon."
+"Buy two get one coupon."
